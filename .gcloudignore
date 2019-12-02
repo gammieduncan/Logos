@@ -17,3 +17,11 @@
 __pycache__/
 # Ignored by the build system
 /setup.cfg
+
+# virtual environment
+venv
+
+# tests
+tests
+
+flask_session

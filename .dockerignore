@@ -1,0 +1,6 @@
+static
+templates
+docker_run.sh
+venv
+flask_session
+app/flask_session
